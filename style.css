@@ -49,3 +49,8 @@ main h2 {
     background-color: green;
     color: white;
 }
+.ashley-style {
+    color: rgb(162, 162, 230);
+    background-color: rgb(34, 36, 37);
+    padding: 3px;
+}
